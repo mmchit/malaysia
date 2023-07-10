@@ -1,0 +1,1220 @@
+innovation,size,sector,man_exp,training,state,age
+Innovative,Large ,Manufacturing,30,provided,Selangor,25
+Not innovative,Small ,Other services,11,not provided,Selangor,12
+Not innovative,Small ,Other services,5,provided,Melaka,30
+Not innovative,Small ,Manufacturing,30,provided,Melaka,21
+Innovative,Small ,Manufacturing,22,provided,Selangor,17
+Innovative,Small ,Manufacturing,13,provided,KL,49
+Innovative,Large ,Manufacturing,30,provided,Selangor,28
+Innovative,Medium ,Other services,30,not provided,Selangor,30
+Innovative,Small ,Manufacturing,30,provided,Selangor,47
+Not innovative,Small ,Manufacturing,33,provided,Selangor,19
+Innovative,Medium ,Manufacture,30,provided,Selangor,22
+Innovative,Medium ,Manufacturing,28,provided,Selangor,28
+Innovative,Small ,Manufacturing,10,provided,Negeri Sembilan,42
+Not innovative,Small ,Manufacturing,40,provided,Selangor,48
+Innovative,Small ,Manufacturing,7,provided,Selangor,5
+Innovative,Large ,Manufacturing,30,provided,Selangor,30
+Innovative,Large ,Manufacturing,28,provided,Selangor,31
+Innovative,Large ,Manufacturing,20,provided,Selangor,31
+Not innovative,Large ,Manufacturing,23,provided,Selangor,39
+Innovative,Large ,Manufacturing,35,provided,Selangor,20
+Innovative,Medium ,Manufacturing,40,provided,Selangor,27
+Innovative,Medium ,Manufacturing,30,provided,Selangor,53
+Innovative,Medium ,Manufacturing,30,provided,Selangor,32
+Not innovative,Small ,Manufacturing,40,not provided,Melaka,24
+Not innovative,Small ,Manufacturing,30,not provided,Selangor,26
+Innovative,Small ,Manufacturing,20,provided,Selangor,23
+Innovative,Small ,Manufacturing,10,provided,Selangor,13
+Innovative,Large ,Manufacturing,30,provided,Melaka,30
+Innovative,Large ,Manufacturing,40,provided,Selangor,63
+Not innovative,Small ,Manufacturing,30,provided,Selangor,13
+Innovative,Large ,Manufacturing,40,provided,Melaka,65
+Not innovative,Small ,Manufacturing,29,not provided,Melaka,30
+Not innovative,Small ,Manufacturing,43,not provided,Melaka,27
+Not innovative,Small ,Retail services,39,not provided,Negeri Sembilan,40
+Innovative,Small ,Manufacturing,15,provided,Selangor,4
+Not innovative,Small ,Manufacturing,20,not provided,Selangor,31
+Innovative,Large ,Manufacturing,23,not provided,Selangor,31
+Not innovative,Large ,Manufacturing,20,not provided,Selangor,24
+Innovative,Large ,Manufacture,50,not provided,Selangor,50
+Innovative,Large ,Manufacturing,35,provided,Selangor,23
+Not innovative,Large ,Manufacturing,50,not provided,Selangor,48
+Innovative,Medium ,Manufacturing,21,provided,Melaka,24
+Innovative,Medium ,Manufacturing,20,not provided,Selangor,14
+Innovative,Medium ,Manufacturing,35,not provided,Selangor,37
+Innovative,Medium ,Manufacturing,40,provided,Selangor,25
+Innovative,Medium ,Manufacturing,30,provided,Selangor,26
+Innovative,Medium ,Retail services,15,provided,Kuala Lumpur,8
+Not innovative,Small ,Manufacturing,20,not provided,Melaka,10
+Not innovative,Small ,Manufacturing,30,not provided,Melaka,26
+Not innovative,Small ,Manufacturing,20,not provided,Negeri Sembilan,25
+Innovative,Large ,Manufacturing,40,not provided,Melaka,33
+Not innovative,Large ,Manufacturing,35,not provided,Selangor,20
+Not innovative,Small ,Manufacturing,30,not provided,Melaka,24
+Innovative,Large ,Manufacturing,20,provided,Melaka,48
+Innovative,Medium ,Manufacturing,30,provided,Selangor,30
+Innovative,Medium ,Manufacturing,40,provided,Kuala Lumpur,31
+Innovative,Small ,Manufacturing,15,provided,Melaka,29
+Innovative,Large ,Manufacturing,30,provided,Melaka,28
+Not innovative,Large ,Manufacture,4,provided,Selangor,21
+Innovative,Medium ,Manufacturing,40,provided,Melaka,26
+Innovative,Small ,Manufacturing,7,provided,Melaka,31
+Not innovative,Small ,Manufacturing,30,provided,Selangor,23
+Innovative,Large ,Manufacturing,30,provided,Selangor,18
+Not innovative,Large ,Manufacturing,10,provided,Selangor,42
+Innovative,Medium ,Manufacturing,20,provided,Selangor,27
+Not innovative,Small ,Other services,20,provided,Negeri Sembilan,22
+Not innovative,Small ,Manufacturing,40,not provided,Negeri Sembilan,20
+Not innovative,Small ,Manufacturing,12,provided,Selangor,20
+Not innovative,Small ,Manufacturing,25,not provided,Selangor,10
+Innovative,Medium ,Other services,10,provided,Selangor,28
+Innovative,Medium ,Other services,20,provided,Kuala Lumpur,23
+Not innovative,Small ,Other services,10,provided,Kuala Lumpur,7
+Innovative,Large ,Other services,20,provided,Kuala Lumpur,21
+Innovative,Medium ,Other services,20,not provided,Selangor,15
+Innovative,Medium ,Other services,30,provided,Selangor,13
+Not innovative,Small ,Other services,20,not provided,Selangor,15
+Innovative,Large ,Retail services,25,not provided,Melaka,26
+Innovative,Small ,Retail,1,provided,Melaka,5
+Not innovative,Small ,Retail services,15,provided,Negeri Sembilan,15
+Not innovative,Small ,Retail services,34,not provided,Negeri Sembilan,18
+Not innovative,Small ,Retail services,5,not provided,Selangor,20
+Not innovative,Large ,Other services,20,not provided,Negeri Sembilan,23
+Not innovative,Small ,Other services,3,provided,Melaka,3
+Innovative,Small ,Other services,25,provided,Selangor,16
+Not innovative,Small ,Other services,12,not provided,Selangor,9
+Innovative,Large ,Other services,40,provided,Selangor,35
+Not innovative,Small ,Other services,16,not provided,Negeri Sembilan,17
+Not innovative,Small ,Other services,30,not provided,Negeri Sembilan,24
+Not innovative,Small ,Other services,10,provided,Pahang,20
+Innovative,Large ,Manufacturing,30,provided,Pahang,10
+Not innovative,Small ,Manufacturing,25,not provided,Pahang,26
+Not innovative,Small ,Retail services,15,not provided,Pahang,4
+Not innovative,Large ,Manufacturing,5,provided,Pahang,39
+Innovative,Medium ,Manufacturing,2,provided,Pahang,38
+Not innovative,Small ,Manufacturing,20,provided,Kelantan,12
+Not innovative,Small ,Manufacturing,15,not provided,Terengganu,16
+Innovative,Small ,Retail services,15,provided,Terengganu,15
+Not innovative,Small ,Manufacturing,20,not provided,Pahang,47
+Not innovative,Small ,Other services,52,provided,Kelantan,53
+Not innovative,Small ,Manufacturing,10,provided,Kelantan,10
+Not innovative,Small ,Retail services,26,not provided,Kelantan,48
+Not innovative,Small ,Retail services,30,not provided,Pahang,32
+Not innovative,Small ,Other services,15,not provided,Terengganu,16
+Not innovative,Small ,Retail,9,not provided,Terengganu,10
+Innovative,Large ,Manufacturing,30,provided,Kelantan,55
+Innovative,Medium ,Manufacturing,20,provided,Pahang,25
+Not innovative,Small ,Manufacturing,28,not provided,Pahang,29
+Not innovative,Small ,Manufacturing,40,not provided,Pahang,41
+Not innovative,Large ,Manufacturing,20,provided,Kelantan,24
+Not innovative,Small ,Manufacturing,30,provided,Kelantan,26
+Not innovative,Small ,Manufacturing,15,not provided,Kelantan,10
+Not innovative,Small ,Manufacturing,40,not provided,Kelantan,44
+Not innovative,Small ,Manufacturing,35,not provided,Kelantan,27
+Not innovative,Small ,Other services,,not provided,Kelantan,180
+Not innovative,Small ,Manufacturing,20,not provided,Kelantan,18
+Not innovative,Small ,Other services,40,not provided,Kelantan,31
+Innovative,Small ,Manufacturing,8,provided,Pahang,5
+Not innovative,Large ,Manufacturing,23,provided,Kelantan,16
+Not innovative,Large ,Manufacturing,20,not provided,Terengganu,55
+Innovative,Medium ,Manufacturing,8,provided,Pahang,32
+Not innovative,Medium ,Manufacturing,35,provided,Terengganu,45
+Innovative,Medium ,Manufacturing,20,not provided,Terengganu,31
+Not innovative,Small ,Manufacturing,21,not provided,Pahang,30
+Not innovative,Small ,Manufacturing,30,not provided,Pahang,11
+Innovative,Large ,Manufacturing,10,provided,Pahang,24
+Not innovative,Large ,Manufacturing,20,provided,Pahang,30
+Innovative,Medium ,Manufacturing,30,not provided,Kelantan,30
+Innovative,Medium ,Manufacturing,30,provided,Pahang,27
+Innovative,Medium ,Manufacturing,35,provided,Pahang,24
+Innovative,Medium ,Manufacturing,40,provided,Pahang,26
+Not innovative,Small ,Manufacturing,25,not provided,Terengganu,28
+Innovative,Large ,Other services,10,provided,Pahang,22
+Innovative,Large ,Other services,20,provided,Terengganu,14
+Innovative,Medium ,Other services,24,not provided,Kelantan,24
+Innovative,Medium ,Other services,12,provided,Kelantan,22
+Not innovative,Medium ,Other services,1,provided,Pahang,15
+Not innovative,Medium ,Other services,5,not provided,Pahang,7
+Innovative,Medium ,Other services,12,provided,Terengganu,13
+Innovative,Medium ,Other services,8,not provided,Terengganu,8
+Innovative,Medium ,Other services,6,not provided,Terengganu,20
+Not innovative,Small ,Other services,10,not provided,Kelantan,11
+Innovative,Small ,Other services,7,provided,Pahang,22
+Not innovative,Small ,Other services,8,provided,Pahang,7
+Innovative,Small ,Other services,16,provided,Pahang,16
+Innovative,Medium ,Other services,14,not provided,Pahang,19
+Not innovative,Small ,Other services,5,not provided,Kelantan,19
+Innovative,Small ,Other services,15,provided,Kelantan,23
+Not innovative,Small ,Retail services,10,not provided,Pahang,8
+Innovative,Small ,Other services,17,provided,Terengganu,17
+Not innovative,Small ,Other services,10,not provided,Kelantan,33
+Not innovative,Small ,Other services,9,not provided,Kelantan,10
+Not innovative,Small ,Other services,4,not provided,Kelantan,4
+Not innovative,Small ,Other services,23,not provided,Pahang,24
+Not innovative,Small ,Other services,20,not provided,Pahang,14
+Not innovative,Small ,Other services,6,provided,Pahang,8
+Innovative,Medium ,Retail services,20,not provided,Kelantan,24
+Not innovative,Small ,Retail services,10,not provided,Kelantan,14
+Not innovative,Small ,Retail services,20,not provided,Kelantan,30
+Innovative,Small ,Retail services,15,provided,Kelantan,8
+Not innovative,Small ,Retail services,35,not provided,Kelantan,37
+Not innovative,Small ,Retail services,10,not provided,Kelantan,12
+Not innovative,Small ,Retail services,8,not provided,Pahang,9
+Not innovative,Small ,Retail services,10,not provided,Terengganu,10
+Innovative,Small ,Other services,26,provided,Terengganu,27
+Not innovative,Large ,Other services,26,not provided,Kelantan,27
+Not innovative,Large ,Other services,40,provided,Kelantan,5
+Innovative,Large ,Manufacturing,14,provided,Terengganu,7
+Innovative,Medium ,Other services,30,not provided,Pahang,23
+Not innovative,Small ,Other services,20,provided,Kelantan,16
+Not innovative,Small ,Other services,28,not provided,Kelantan,24
+Innovative,Large ,Other services,10,provided,Kelantan,12
+Innovative,Large ,Other services,27,provided,Kelantan,28
+Innovative,Medium ,Other services,10,provided,Kelantan,27
+Not innovative,Small ,Other services,21,not provided,Kelantan,25
+Not innovative,Small ,Retail services,24,not provided,Kelantan,21
+Not innovative,Small ,Other services,3,not provided,Pahang,37
+Not innovative,Small ,Other services,30,not provided,Pahang,30
+Not innovative,Small ,Other services,9,not provided,Terengganu,9
+Not innovative,Large ,Manufacturing,15,not provided,Penang,18
+Innovative,Large ,Manufacturing,25,provided,Penang,32
+Innovative,Medium ,Manufacturing,15,provided,Perak,36
+Not innovative,Medium ,Manufacturing,20,provided,Penang,47
+Not innovative,Small ,Manufacturing,3,not provided,Kedah,26
+Not innovative,Small ,Manufacturing,20,provided,Perak,21
+Not innovative,Small ,Other services,10,not provided,Kedah,10
+Not innovative,Small ,Manufacturing,25,not provided,Perak,17
+Not innovative,Large ,Manufacturing,,not provided,Kedah,11
+Not innovative,Large ,Manufacturing,30,not provided,Penang,19
+Innovative,Medium ,Manufacturing,20,provided,Perak,15
+Innovative,Medium ,Manufacturing,20,provided,Penang,12
+Innovative,Medium ,Manufacturing,10,not provided,Penang,11
+Innovative,Medium ,Manufacturing,25,provided,Penang,23
+Not innovative,Small ,Manufacturing,30,not provided,Kedah,31
+Not innovative,Small ,Manufacturing,20,not provided,Kedah,20
+Innovative,Large ,Manufacturing,30,not provided,Kedah,48
+Innovative,Large ,Manufacturing,27,not provided,Perak,29
+Innovative,Large ,Manufacturing,25,provided,Penang,32
+Innovative,Medium ,Manufacturing,30,not provided,Penang,8
+Innovative,Medium ,Manufacturing,19,not provided,Penang,20
+Not innovative,Small ,Manufacturing,1,provided,Kedah,8
+Not innovative,Small ,Manufacturing,30,not provided,Perak,22
+Innovative,Large ,Manufacturing,20,provided,Perak,23
+Innovative,Medium ,Manufacturing,20,not provided,Kedah,13
+Not innovative,Small ,Manufacturing,11,provided,Kedah,47
+Not innovative,Small ,Manufacturing,20,not provided,Perlis,22
+Not innovative,Small ,Other services,19,not provided,Penang,20
+Not innovative,Small ,Manufacturing,19,not provided,Penang,20
+Innovative,Large ,Manufacturing,30,provided,Penang,20
+Innovative,Medium ,Other services,13,provided,Penang,14
+Not innovative,Small ,Manufacturing,25,not provided,Perak,25
+Not innovative,Large ,Manufacturing,16,provided,Kedah,17
+Not innovative,Medium ,Manufacturing,5,not provided,Penang,6
+Not innovative,Small ,Manufacturing,30,not provided,Kedah,32
+Not innovative,Small ,Manufacturing,5,not provided,Penang,7
+Innovative,Medium ,Manufacturing,20,provided,Penang,41
+Not innovative,Small ,Other services,35,not provided,Perak,14
+Not innovative,Small ,Manufacturing,35,not provided,Perak,35
+Not innovative,Small ,Manufacturing,20,not provided,Perak,
+Not innovative,Small ,Manufacturing,26,not provided,Penang,17
+Innovative,Medium ,Manufacturing,25,not provided,Perak,26
+Innovative,Medium ,Other services,10,not provided,Penang,20
+Not innovative,Small ,Retail services,22,not provided,Perak,23
+Not innovative,Large ,Manufacturing,20,provided,Penang,19
+Not innovative,Small ,Manufacturing,20,not provided,Perak,15
+Not innovative,Small ,Manufacturing,40,not provided,Penang,23
+Innovative,Large ,Manufacturing,40,provided,Penang,23
+Innovative,Medium ,Manufacturing,36,provided,Perak,37
+Innovative,Medium ,Manufacturing,30,provided,Penang,22
+Not innovative,Small ,Manufacturing,20,not provided,Perak,9
+Not innovative,Small ,Manufacturing,30,not provided,Perak,22
+Not innovative,Small ,Manufacturing,23,provided,Perlis,25
+Not innovative,Small ,Other services,50,not provided,Penang,43
+Not innovative,Large ,Other services,6,provided,Kedah,7
+Not innovative,Large ,Other services,,not provided,Perak,2
+Innovative,Medium ,Other services,2,not provided,Kedah,16
+Innovative,Medium ,Other services,20,provided,Perlis,10
+Innovative,Medium ,Other services,8,not provided,Penang,9
+Not innovative,Small ,Other services,6,not provided,Perlis,7
+Innovative,Large ,Other services,22,not provided,Penang,23
+Not innovative,Large ,Manufacturing,15,provided,Penang,19
+Not innovative,Large ,Other services,10,not provided,Kedah,21
+Innovative,Medium ,Other services,22,provided,Kedah,23
+Innovative,Medium ,Other services,10,not provided,Kedah,10
+Not innovative,Small ,Other services,22,not provided,Penang,23
+Innovative,Small ,Other services,11,provided,Penang,13
+Not innovative,Small ,Other services,15,not provided,Penang,10
+Not innovative,Large ,Retail services,30,not provided,Penang,19
+Not innovative,Small ,Other services,2,not provided,Kedah,24
+Not innovative,Small ,Other services,8,not provided,Kedah,9
+Not innovative,Small ,Retail services,10,not provided,Perak,10
+Not innovative,Small ,Retail services,37,not provided,Perak,38
+Not innovative,Small ,Retail services,5,not provided,Penang,34
+Not innovative,Large ,Other services,10,provided,Kedah,39
+Innovative,Medium ,Other services,,not provided,Perak,15
+Innovative,Medium ,Other services,10,not provided,Perlis,8
+Innovative,Small ,Other services,21,provided,Kedah,22
+Not innovative,Small ,Retail services,10,not provided,Kedah,15
+Not innovative,Small ,Other services,20,not provided,Penang,34
+Not innovative,Small ,Other services,20,not provided,Penang,37
+Innovative,Medium ,Other services,35,provided,Perak,23
+Not innovative,Small ,Other services,20,not provided,Kedah,21
+Not innovative,Small ,Other services,15,not provided,Perak,14
+Not innovative,Small ,Other services,20,not provided,Penang,20
+Not innovative,Small ,Other services,15,not provided,Sabah,15
+Not innovative,Small ,Manufacturing,9,provided,Sabah,10
+Not innovative,Small ,Manufacturing,1,provided,Sabah,2
+Not innovative,Small ,Manufacturing,53,not provided,Sabah,53
+Innovative,Medium ,Manufacturing,27,provided,Sabah,27
+Not innovative,Small ,Manufacturing,30,not provided,Sabah,23
+Innovative,Small ,Manufacturing,25,provided,Sabah,17
+Not innovative,Small ,Manufacturing,5,not provided,Sabah,6
+Not innovative,Small ,Manufacturing,7,provided,Sabah,11
+Not innovative,Small ,Manufacturing,16,provided,Sabah,16
+Not innovative,Small ,Manufacturing,4,not provided,Sabah,5
+Not innovative,Large ,Other services,22,provided,Sabah,23
+Not innovative,Large ,Other services,7,not provided,Sabah,8
+Innovative,Medium ,Other services,9,provided,Sabah,10
+Innovative,Medium ,Other services,14,provided,Sabah,6
+Not innovative,Small ,Other services,10,not provided,Sabah,12
+Innovative,Medium ,Other services,14,provided,Sabah,15
+Not innovative,Small ,Other services,25,not provided,Sabah,25
+Not innovative,Small ,Other services,5,provided,Sabah,6
+Innovative,Large ,Other services,14,provided,Sabah,14
+Not innovative,Small ,Other services,22,not provided,Sabah,15
+Not innovative,Small ,Manufacturing,33,not provided,Sarawak,34
+Not innovative,Small ,Manufacturing,120,not provided,Sarawak,30
+Not innovative,Large ,Manufacturing,,not provided,Sarawak,49
+Innovative,Medium ,Manufacturing,29,not provided,Sarawak,40
+Not innovative,Small ,Manufacturing,30,not provided,Sarawak,8
+Not innovative,Small ,Manufacturing,36,not provided,Sarawak,40
+Not innovative,Small ,Other services,13,not provided,Sarawak,14
+Innovative,Small ,Manufacturing,20,provided,Sarawak,11
+Not innovative,Small ,Manufacturing,33,not provided,Sarawak,34
+Not innovative,Large ,Manufacturing,15,not provided,Sarawak,24
+Innovative,Small ,Manufacturing,30,not provided,Sarawak,13
+Not innovative,Large ,Other services,2,not provided,Sarawak,
+Innovative,Medium ,Other services,30,provided,Sarawak,8
+Innovative,Small ,Other services,7,not provided,Sarawak,7
+Not innovative,Small ,Other services,,not provided,Sarawak,21
+Innovative,Medium ,Other services,10,provided,Sarawak,20
+Innovative,Small ,Other services,15,provided,Sarawak,5
+Innovative,Medium ,Other services,39,provided,Sarawak,25
+Innovative,Medium ,Retail services,20,provided,Sarawak,18
+Innovative,Medium ,Retail services,27,not provided,Sarawak,28
+Innovative,Small ,Retail services,6,not provided,Sarawak,7
+Innovative,Small ,Retail services,30,provided,Sarawak,52
+Innovative,Large ,Other services,25,provided,Sarawak,6
+Not innovative,Small ,Other services,35,not provided,Sarawak,36
+Not innovative,Small ,Manufacturing,21,provided,Johor,22
+Not innovative,Large ,Manufacturing,15,provided,Johor,28
+Innovative,Medium ,Manufacturing,30,not provided,Johor,36
+Innovative,Medium ,Manufacturing,20,provided,Johor,21
+Innovative,Medium ,Manufacturing,80,not provided,Johor,29
+Innovative,Small ,Manufacturing,20,provided,Johor,23
+Not innovative,Small ,Manufacturing,20,provided,Johor,16
+Not innovative,Small ,Manufacturing,38,provided,Johor,40
+Not innovative,Small ,Manufacturing,20,provided,Johor,26
+Not innovative,Small ,Manufacturing,8,not provided,Johor,10
+Innovative,Small ,Manufacturing,20,not provided,Johor,22
+Not innovative,Large ,Manufacturing,23,not provided,Johor,27
+Innovative,Large ,Manufacturing,26,provided,Johor,32
+Innovative,Medium ,Manufacturing,,provided,Johor,17
+Innovative,Medium ,Manufacturing,15,provided,Johor,31
+Not innovative,Medium ,Manufacturing,5,not provided,Johor,24
+Not innovative,Medium ,Manufacturing,3,not provided,Johor,18
+Not innovative,Large ,Manufacturing,20,provided,Johor,21
+Innovative,Large ,Manufacturing,11,provided,Johor,6
+Innovative,Large ,Manufacturing,30,provided,Johor,31
+Not innovative,Large ,Manufacturing,5,not provided,Johor,10
+Not innovative,Large ,Manufacturing,30,not provided,Johor,31
+Not innovative,Medium ,Manufacturing,6,provided,Johor,30
+Innovative,Medium ,Manufacturing,20,provided,Johor,21
+Innovative,Medium ,Manufacturing,19,provided,Johor,19
+Not innovative,Small ,Other services,10,not provided,Johor,16
+Innovative,Small ,Manufacturing,20,provided,Johor,4
+Innovative,Large ,Manufacturing,30,provided,Johor,44
+Not innovative,Large ,Manufacturing,15,provided,Johor,28
+Not innovative,Small ,Manufacturing,20,not provided,Johor,21
+Not innovative,Small ,Manufacturing,20,not provided,Johor,21
+Not innovative,Large ,Manufacturing,12,not provided,Johor,31
+Innovative,Large ,Manufacturing,25,provided,Johor,30
+Not innovative,Small ,Manufacturing,20,not provided,Johor,29
+Innovative,Small ,Other services,20,provided,Johor,30
+Not innovative,Small ,Manufacturing,17,not provided,Johor,13
+Innovative,Large ,Manufacturing,1,provided,Johor,21
+Innovative,Large ,Manufacturing,12,provided,Johor,29
+Not innovative,Large ,Manufacturing,17,provided,Johor,28
+Not innovative,Small ,Manufacturing,20,not provided,Johor,16
+Not innovative,Small ,Manufacturing,25,provided,Johor,26
+Not innovative,Small ,Manufacturing,21,not provided,Johor,22
+Innovative,Large ,Manufacturing,30,provided,Johor,47
+Innovative,Large ,Manufacturing,40,provided,Johor,30
+Innovative,Medium ,Manufacturing,10,provided,Johor,24
+Innovative,Medium ,Manufacturing,20,not provided,Johor,21
+Innovative,Small ,Manufacturing,20,not provided,Johor,18
+Not innovative,Small ,Manufacturing,10,not provided,Johor,11
+Innovative,Large ,Manufacturing,25,provided,Johor,21
+Innovative,Small ,Manufacturing,2,provided,Johor,18
+Innovative,Small ,Manufacturing,38,provided,Johor,36
+Not innovative,Small ,Manufacturing,20,provided,Johor,7
+Innovative,Small ,Manufacturing,1,not provided,Johor,78
+Not innovative,Small ,Other services,40,not provided,Johor,44
+Innovative,Medium ,Other services,8,not provided,Johor,9
+Not innovative,Small ,Other services,10,not provided,Johor,22
+Not innovative,Small ,Other services,14,not provided,Johor,15
+Not innovative,Small ,Other services,10,not provided,Johor,24
+Innovative,Medium ,Other services,13,provided,Johor,14
+Innovative,Medium ,Other services,30,provided,Johor,25
+Not innovative,Small ,Other services,5,provided,Johor,6
+Innovative,Small ,Other services,15,not provided,Johor,16
+Not innovative,Small ,Other services,13,provided,Johor,14
+Not innovative,Large ,Retail services,11,provided,Johor,12
+Innovative,Medium ,Other services,15,not provided,Johor,16
+Not innovative,Small ,Other services,15,not provided,Johor,5
+Not innovative,Large ,Manufacturing,10,not provided,Johor,12
+Not innovative,Small ,Other services,5,not provided,Johor,6
+Innovative,Large ,Retail services,13,provided,Johor,15
+Not innovative,Small ,Retail services,22,not provided,Johor,25
+Not innovative,Small ,Retail services,37,provided,Johor,38
+Not innovative,Small ,Retail services,14,not provided,Johor,15
+Not innovative,Small ,Retail services,29,provided,Johor,22
+Innovative,Small ,Retail services,15,not provided,Johor,25
+Innovative,Large ,Other services,30,provided,Johor,48
+Not innovative,Small ,Other services,,not provided,Johor,30
+Not innovative,Small ,Retail,30,not provided,Johor,21
+Not innovative,Small ,Manufacturing,25,not provided,Johor,16
+Not innovative,Small ,Other services,4,not provided,Johor,5
+Not innovative,Small ,Other services,11,not provided,Johor,13
+Innovative,Large ,Other services,21,provided,Johor,17
+Not innovative,Large ,Other services,20,provided,Johor,11
+Innovative,Large ,Other services,20,provided,Johor,7
+Not innovative,Medium ,Other services,5,not provided,Johor,4
+Not innovative,Large ,Other services,2,provided,Kedah,25
+Not innovative,Large ,Other services,,provided,Kedah,15
+Not innovative,Large ,Other services,20,provided,Kelantan,21
+Not innovative,Large ,Other services,15,not provided,Kelantan,10
+Not innovative,Large ,Other services,41,provided,Negeri Sembilan,11
+Innovative,Medium ,Other services,30,provided,Pahang,22
+Innovative,Small ,Other services,8,provided,Pahang,9
+Not innovative,Small ,Other services,21,not provided,Pahang,28
+Not innovative,Small ,Other services,15,not provided,Pahang,14
+Not innovative,Small ,Other services,18,provided,Sabah,18
+Not innovative,Small ,Other services,7,not provided,Sabah,7
+Not innovative,Large ,Other services,43,not provided,Sarawak,44
+Innovative,Large ,Other services,25,provided,Sarawak,26
+Not innovative,Large ,Other services,20,provided,Sarawak,22
+Not innovative,Large ,Other services,8,not provided,Sarawak,8
+Innovative,Medium ,Other services,15,not provided,Sarawak,16
+Not innovative,Large ,Other services,12,not provided,Terengganu,35
+Innovative,Large ,Other services,14,provided,Terengganu,13
+Innovative,Large ,Other services,8,provided,Terengganu,8
+Innovative,Medium ,Manufacturing,45,not provided,Pahang,27
+Innovative,Small ,Manufacturing,25,provided,Selangor,26
+Innovative,Medium ,Manufacturing,30,provided,Johor,40
+Innovative,Medium ,Manufacturing,20,not provided,Johor,28
+Not innovative,Large ,Manufacturing,5,not provided,Negeri Sembilan,6
+Innovative,Medium ,Manufacturing,,provided,Negeri Sembilan,26
+Innovative,Medium ,Manufacturing,30,provided,Perak,24
+Not innovative,Small ,Manufacturing,20,not provided,Sabah,21
+Innovative,Small ,Manufacturing,17,provided,Sabah,18
+Not innovative,Small ,Manufacturing,4,provided,Sabah,4
+Innovative,Medium ,Retail services,34,not provided,Sarawak,35
+Innovative,Large ,Manufacturing,40,provided,Selangor,37
+Innovative,Large ,Manufacturing,20,provided,Selangor,35
+Innovative,Large ,Manufacturing,30,provided,Selangor,31
+Innovative,Large ,Manufacturing,30,provided,Selangor,30
+Innovative,Large ,Manufacturing,15,provided,Selangor,28
+Innovative,Large ,Manufacturing,30,provided,Selangor,20
+Innovative,Large ,Manufacturing,9,provided,Selangor,14
+Innovative,Medium ,Manufacturing,20,provided,Selangor,37
+Not innovative,Small ,Manufacturing,40,not provided,Selangor,38
+Not innovative,Large ,Manufacturing,,provided,Johor,21
+Not innovative,Large ,Manufacturing,20,provided,Johor,18
+Innovative,Large ,Manufacturing,30,provided,Johor,28
+Not innovative,Small ,Manufacturing,40,not provided,Johor,24
+Innovative,Medium ,Manufacturing,24,not provided,Perak,25
+Innovative,Medium ,Manufacturing,20,not provided,Penang,32
+Not innovative,Small ,Manufacturing,34,provided,Sarawak,11
+Innovative,Medium ,Manufacturing,30,provided,Selangor,32
+Innovative,Medium ,Manufacturing,25,not provided,Selangor,18
+Innovative,Large ,Manufacturing,30,provided,Johor,53
+Innovative,Large ,Manufacturing,40,provided,Johor,41
+Innovative,Large ,Manufacturing,30,provided,Johor,27
+Not innovative,Large ,Manufacturing,20,provided,Johor,31
+Innovative,Large ,Manufacturing,20,provided,Johor,12
+Innovative,Large ,Manufacturing,1,provided,Kedah,52
+Innovative,Large ,Manufacturing,30,provided,Penang,23
+Innovative,Medium ,Manufacturing,30,provided,Penang,35
+Innovative,Medium ,Manufacturing,30,not provided,Penang,30
+Not innovative,Small ,Manufacturing,6,not provided,Sabah,7
+Innovative,Large ,Manufacturing,35,provided,Sarawak,28
+Innovative,Large ,Manufacturing,34,provided,Selangor,31
+Innovative,Large ,Manufacturing,27,provided,Selangor,20
+Innovative,Large ,Manufacturing,17,provided,Selangor,63
+Innovative,Large ,Manufacturing,30,provided,Selangor,21
+Innovative,Medium ,Manufacturing,35,provided,Selangor,28
+Innovative,Small ,Manufacturing,20,provided,Selangor,38
+Innovative,Large ,Manufacturing,35,provided,Johor,31
+Not innovative,Large ,Manufacturing,30,not provided,Johor,31
+Not innovative,Small ,Manufacturing,11,not provided,Johor,12
+Not innovative,Large ,Manufacturing,25,not provided,Kedah,31
+Innovative,Large ,Manufacturing,28,provided,Perak,28
+Innovative,Large ,Manufacturing,20,provided,Penang,14
+Innovative,Medium ,Manufacturing,15,provided,Penang,23
+Not innovative,Small ,Manufacturing,20,provided,Penang,10
+Not innovative,Large ,Manufacturing,20,not provided,Selangor,48
+Innovative,Large ,Manufacturing,20,provided,Selangor,47
+Innovative,Large ,Manufacturing,27,provided,Selangor,46
+Innovative,Large ,Manufacturing,30,provided,Selangor,36
+Innovative,Large ,Manufacturing,35,provided,Selangor,30
+Not innovative,Small ,Manufacturing,30,provided,Johor,51
+Not innovative,Small ,Manufacturing,29,not provided,Johor,51
+Innovative,Large ,Manufacturing,35,provided,Kedah,78
+Not innovative,Small ,Manufacturing,,not provided,Kelantan,60
+Not innovative,Small ,Manufacturing,58,not provided,Kelantan,59
+Innovative,Medium ,Manufacturing,30,provided,Sarawak,36
+Innovative,Medium ,Manufacturing,,not provided,Sarawak,13
+Innovative,Small ,Other services,19,not provided,Pahang,19
+Not innovative,Small ,Other services,30,provided,Pahang,8
+Innovative,Large ,Other services,2,provided,Penang,13
+Innovative,Medium ,Other services,30,not provided,Sarawak,23
+Innovative,Medium ,Other services,25,not provided,Selangor,24
+Innovative,Small ,Other services,20,not provided,Terengganu,21
+Innovative,Medium ,Manufacturing,28,not provided,Johor,29
+Innovative,Medium ,Manufacturing,30,not provided,Johor,31
+Innovative,Medium ,Manufacturing,20,not provided,Johor,25
+Innovative,Medium ,Manufacturing,20,provided,Johor,26
+Innovative,Medium ,Manufacturing,20,not provided,Melaka,44
+Innovative,Medium ,Manufacturing,56,not provided,Perak,26
+Not innovative,Small ,Manufacturing,40,not provided,Perak,51
+Not innovative,Large ,Manufacturing,15,not provided,Penang,16
+Innovative,Medium ,Manufacturing,38,not provided,Penang,37
+Innovative,Medium ,Manufacturing,20,not provided,Penang,29
+Innovative,Medium ,Manufacturing,24,provided,Penang,25
+Innovative,Medium ,Manufacturing,25,provided,Penang,23
+Not innovative,Small ,Manufacturing,30,not provided,Penang,27
+Not innovative,Small ,Manufacturing,15,not provided,Penang,25
+Innovative,Medium ,Manufacturing,40,provided,Johor,30
+Not innovative,Medium ,Manufacturing,17,provided,Perak,57
+Innovative,Large ,Manufacturing,25,provided,Penang,25
+Not innovative,Small ,Manufacturing,30,not provided,Penang,30
+Not innovative,Small ,Manufacturing,11,provided,Sabah,11
+Not innovative,Small ,Manufacturing,22,provided,Sabah,23
+Not innovative,Small ,Manufacturing,19,not provided,Sabah,20
+Innovative,Large ,Manufacturing,28,provided,Selangor,27
+Innovative,Large ,Manufacturing,18,provided,Selangor,19
+Innovative,Large ,Manufacturing,35,not provided,Johor,12
+Not innovative,Small ,Other services,6,not provided,Johor,10
+Not innovative,Small ,Other services,20,not provided,Melaka,27
+Innovative,Large ,Manufacturing,26,provided,Negeri Sembilan,34
+Innovative,Large ,Manufacturing,30,provided,Negeri Sembilan,30
+Innovative,Large ,Manufacturing,26,provided,Negeri Sembilan,27
+Innovative,Large ,Manufacturing,20,provided,Pahang,9
+Innovative,Medium ,Manufacturing,25,not provided,Pahang,25
+Not innovative,Large ,Manufacturing,16,provided,Penang,31
+Not innovative,Small ,Manufacturing,29,not provided,Sabah,35
+Not innovative,Large ,Manufacturing,,provided,Sarawak,53
+Innovative,Medium ,Manufacturing,15,not provided,Sarawak,43
+Innovative,Medium ,Manufacturing,37,provided,Sarawak,68
+Not innovative,Large ,Other services,6,provided,Selangor,33
+Innovative,Large ,Manufacturing,43,provided,Selangor,44
+Innovative,Large ,Manufacturing,40,provided,Selangor,32
+Innovative,Large ,Other services,14,not provided,Kelantan,16
+Innovative,Medium ,Other services,15,not provided,Kelantan,25
+Innovative,Medium ,Other services,25,not provided,Negeri Sembilan,18
+Innovative,Medium ,Other services,27,not provided,Penang,28
+Innovative,Medium ,Other services,22,provided,Sabah,23
+Not innovative,Small ,Other services,30,not provided,Sabah,30
+Not innovative,Medium ,Other services,,provided,Sarawak,102
+Innovative,Medium ,Other services,30,provided,Sarawak,52
+Not innovative,Small ,Other services,37,not provided,Johor,38
+Innovative,Large ,Other services,48,not provided,Kelantan,49
+Innovative,Medium ,Other services,25,provided,Kelantan,32
+Innovative,Large ,Other services,20,provided,Pahang,20
+Innovative,Large ,Other services,20,provided,Pahang,14
+Innovative,Medium ,Other services,40,not provided,Pahang,38
+Innovative,Medium ,Retail services,17,provided,Perlis,23
+Innovative,Medium ,Other services,30,not provided,Sarawak,31
+Innovative,Medium ,Other services,19,not provided,Sarawak,20
+Not innovative,Large ,Other services,14,not provided,Terengganu,15
+Not innovative,Large ,Manufacturing,21,provided,Johor,23
+Innovative,Large ,Manufacturing,24,provided,Johor,25
+Not innovative,Large ,Manufacturing,,not provided,Johor,17
+Innovative,Medium ,Manufacturing,25,provided,Johor,24
+Not innovative,Large ,Manufacturing,,provided,Kedah,35
+Innovative,Medium ,Manufacturing,29,provided,Kedah,30
+Not innovative,Small ,Manufacturing,13,provided,Kuala Lumpur,39
+Innovative,Medium ,Manufacturing,50,provided,Negeri Sembilan,73
+Innovative,Medium ,Manufacturing,41,provided,Pahang,42
+Not innovative,Large ,Manufacturing,30,not provided,Penang,24
+Innovative,Small ,Manufacturing,20,provided,Penang,27
+Innovative,Medium ,Manufacturing,30,provided,Sabah,16
+Not innovative,Small ,Manufacturing,25,not provided,Sabah,25
+Innovative,Large ,Manufacturing,31,provided,Selangor,50
+Not innovative,Large ,Manufacturing,12,provided,Selangor,47
+Not innovative,Small ,Manufacturing,14,provided,Selangor,35
+Innovative,Medium ,Manufacturing,35,not provided,Penang,31
+Innovative,Large ,Retail services,25,provided,Johor,26
+Not innovative,Large ,Manufacturing,10,not provided,Johor,16
+Innovative,Medium ,Other services,20,not provided,Johor,21
+Not innovative,Small ,Retail services,19,not provided,Johor,19
+Not innovative,Large ,Retail services,3,provided,Kedah,5
+Innovative,Medium ,Retail services,30,not provided,Kuala Lumpur,16
+Not innovative,Small ,Retail services,12,not provided,Sarawak,13
+Not innovative,Medium ,Retail services,10,not provided,Terengganu,5
+Innovative,Medium ,Manufacturing,29,provided,Johor,30
+Innovative,Medium ,Manufacturing,15,provided,Johor,27
+Not innovative,Large ,Other services,30,not provided,Johor,74
+Innovative,Medium ,Other services,40,provided,Johor,16
+Not innovative,Small ,Other services,1,not provided,Kelantan,17
+Not innovative,Small ,Other services,43,not provided,Kuala Lumpur,44
+Not innovative,Large ,Other services,55,not provided,Sabah,55
+Not innovative,Large ,Other services,20,not provided,Sarawak,37
+Innovative,Medium ,Other services,12,not provided,Sarawak,23
+Not innovative,Large ,Other services,20,not provided,Selangor,13
+Innovative,Small ,Other services,30,provided,Selangor,20
+Innovative,Large ,Other services,25,provided,Terengganu,43
+Innovative,Large ,Other services,26,provided,Terengganu,27
+Innovative,Medium ,Other services,15,not provided,Terengganu,16
+Not innovative,Small ,Manufacturing,40,not provided,Johor,23
+Innovative,Large ,Manufacturing,25,provided,Kedah,46
+Innovative,Large ,Manufacturing,30,not provided,Kelantan,10
+Not innovative,Large ,Manufacturing,30,not provided,Negeri Sembilan,21
+Innovative,Medium ,Manufacturing,10,not provided,Negeri Sembilan,18
+Not innovative,Small ,Manufacturing,3,provided,Pahang,4
+Innovative,Medium ,Manufacturing,,not provided,Penang,20
+Innovative,Medium ,Manufacturing,29,not provided,Sabah,31
+Innovative,Medium ,Manufacturing,30,provided,Sabah,31
+Innovative,Medium ,Manufacturing,,provided,Sarawak,29
+Innovative,Large ,Manufacturing,28,provided,Selangor,29
+Not innovative,Small ,Manufacturing,38,not provided,Selangor,41
+Not innovative,Medium ,Other services,7,provided,Johor,9
+Not innovative,Medium ,Other services,6,provided,Johor,7
+Not innovative,Small ,Other services,10,not provided,Johor,20
+Not innovative,Small ,Other services,9,provided,Johor,10
+Not innovative,Medium ,Other services,1,not provided,Kelantan,20
+Not innovative,Small ,Other services,10,not provided,Kelantan,10
+Not innovative,Small ,Other services,7,not provided,Kelantan,8
+Not innovative,Small ,Other services,10,not provided,Kelantan,11
+Not innovative,Medium ,Other services,6,provided,Kuala Lumpur,11
+Not innovative,Small ,Other services,5,provided,KL,6
+Innovative,Small ,Other services,10,provided,Kuala Lumpur,10
+Innovative,Medium ,Other services,15,provided,Melaka,14
+Innovative,Large ,Other services,27,provided,Pahang,28
+Innovative,Large ,Other services,30,provided,Pahang,30
+Not innovative,Large ,Other services,20,not provided,Pahang,27
+Innovative,Large ,Other services,16,provided,Pahang,9
+Innovative,Medium ,Other services,35,not provided,Pahang,15
+Innovative,Medium ,Other services,30,not provided,Pahang,12
+Innovative,Small ,Other services,30,not provided,Pahang,31
+Not innovative,Small ,Other services,10,provided,Pahang,10
+Innovative,Large ,Other services,25,provided,Perak,12
+Not innovative,Medium ,Other services,,provided,Perak,7
+Innovative,Medium ,Other services,15,provided,Perak,16
+Not innovative,Small ,Other services,13,not provided,Perak,3
+Not innovative,Small ,Other services,2,not provided,Perak,2
+Innovative,Small ,Other services,5,not provided,Perak,11
+Innovative,Large ,Other services,10,not provided,Penang,11
+Innovative,Small ,Other services,8,provided,Penang,26
+Innovative,Large ,Other services,20,provided,Sabah,35
+Innovative,Medium ,Other services,20,not provided,Sarawak,26
+Innovative,Medium ,Other services,10,not provided,Sarawak,9
+Not innovative,Medium ,Other services,3,not provided,Sarawak,6
+Not innovative,Small ,Other services,23,not provided,Sarawak,12
+Not innovative,Small ,Other services,,not provided,Sarawak,8
+Not innovative,Small ,Other services,3,not provided,Sarawak,11
+Innovative,Large ,Other services,30,provided,Selangor,26
+Not innovative,Medium ,Other services,7,not provided,Selangor,9
+Not innovative,Medium ,Other services,5,provided,Selangor,8
+Innovative,Medium ,Other services,10,provided,Terengganu,10
+Innovative,Medium ,Other services,6,not provided,Terengganu,7
+Not innovative,Small ,Other services,15,provided,Terengganu,7
+Innovative,Large ,Manufacturing,25,provided,Johor,23
+Innovative,Medium ,Manufacturing,20,provided,Johor,25
+Not innovative,Small ,Manufacturing,20,not provided,Johor,15
+Not innovative,Small ,Manufacturing,30,provided,Johor,15
+Not innovative,Small ,Retail services,15,not provided,Johor,9
+Innovative,Small ,Retail services,12,not provided,Melaka,8
+Not innovative,Small ,Manufacturing,40,not provided,Perak,
+Innovative,Small ,Manufacturing,34,provided,Perak,35
+Not innovative,Small ,Manufacturing,30,not provided,Perak,13
+Not innovative,Small ,Manufacturing,15,not provided,Penang,30
+Not innovative,Small ,Manufacturing,25,not provided,Penang,22
+Not innovative,Small ,Manufacturing,20,not provided,Penang,6
+Not innovative,Small ,Other services,20,not provided,Penang,24
+Innovative,Small ,Manufacturing,22,not provided,Selangor,23
+Not innovative,Small ,Other services,21,provided,Selangor,21
+Not innovative,Small ,Manufacturing,12,provided,Selangor,13
+Innovative,Medium ,Manufacturing,30,provided,Johor,25
+Not innovative,Small ,Manufacturing,30,provided,Johor,24
+Not innovative,Small ,Manufacturing,30,provided,Johor,21
+Not innovative,Small ,Manufacturing,30,not provided,Johor,8
+Not innovative,Small ,Manufacturing,26,not provided,Kedah,27
+Not innovative,Small ,Manufacturing,25,not provided,Kedah,17
+Innovative,Small ,Manufacturing,3,provided,Kedah,11
+Innovative,Small ,Retail services,5,not provided,Kuala Lumpur,6
+Innovative,Small ,Manufacturing,20,provided,Negeri Sembilan,10
+Not innovative,Small ,Manufacturing,20,provided,Negeri Sembilan,17
+Innovative,Small ,Manufacturing,1,not provided,Negeri Sembilan,5
+Innovative,Small ,Manufacturing,30,provided,Perak,80
+Innovative,Small ,Manufacturing,30,provided,Perak,30
+Innovative,Small ,Manufacturing,10,provided,Perak,11
+Innovative,Small ,Manufacturing,8,provided,Perak,9
+Not innovative,Small ,Manufacturing,,provided,Perak,43
+Not innovative,Small ,Manufacturing,10,not provided,Perak,10
+Innovative,Small ,Manufacturing,10,provided,Perak,5
+Not innovative,Small ,Manufacturing,30,not provided,Penang,25
+Innovative,Large ,Manufacturing,30,provided,Selangor,38
+Innovative,Small ,Other services,22,provided,Selangor,23
+Innovative,Small ,Manufacturing,17,not provided,Selangor,18
+Innovative,Small ,Manufacturing,16,provided,Selangor,28
+Innovative,Small ,Manufacturing,22,provided,Selangor,23
+Not innovative,Small ,Manufacturing,20,provided,Selangor,19
+Not innovative,Small ,Manufacturing,30,not provided,Selangor,52
+Not innovative,Small ,Manufacturing,20,not provided,Selangor,14
+Not innovative,Small ,Manufacturing,15,provided,Selangor,15
+Innovative,Medium ,Manufacturing,30,not provided,Johor,18
+Innovative,Medium ,Manufacturing,14,provided,Johor,19
+Innovative,Medium ,Manufacturing,40,provided,Johor,17
+Innovative,Small ,Manufacturing,40,provided,Johor,42
+Not innovative,Small ,Manufacturing,10,provided,Johor,15
+Innovative,Small ,Manufacturing,40,not provided,Johor,25
+Not innovative,Small ,Manufacturing,10,not provided,Johor,24
+Not innovative,Small ,Manufacturing,30,not provided,Johor,20
+Not innovative,Small ,Manufacturing,13,provided,Johor,15
+Not innovative,Small ,Manufacturing,20,provided,Johor,2
+Innovative,Medium ,Manufacturing,18,provided,Kedah,20
+Not innovative,Small ,Manufacturing,30,not provided,Kedah,29
+Not innovative,Small ,Manufacturing,15,provided,Kedah,16
+Not innovative,Small ,Manufacturing,30,not provided,Kedah,40
+Not innovative,Small ,Manufacturing,20,not provided,Kedah,8
+Not innovative,Small ,Manufacturing,50,not provided,Kelantan,35
+Innovative,Small ,Other services,33,not provided,Kuala Lumpur,34
+Not innovative,Small ,Manufacturing,20,provided,Pahang,29
+Innovative,Large ,Manufacturing,19,provided,Perak,20
+Not innovative,Small ,Manufacturing,,not provided,Perak,41
+Innovative,Small ,Manufacturing,40,not provided,Perak,46
+Not innovative,Small ,Manufacturing,49,not provided,Perak,50
+Not innovative,Small ,Manufacturing,24,not provided,Perak,27
+Innovative,Small ,Manufacturing,30,not provided,Perak,15
+Not innovative,Small ,Manufacturing,8,not provided,Perak,9
+Innovative,Medium ,Manufacturing,20,provided,Penang,20
+Innovative,Medium ,Manufacturing,30,not provided,Penang,24
+Not innovative,Small ,Manufacturing,30,not provided,Penang,35
+Not innovative,Small ,Manufacturing,10,not provided,Sarawak,12
+Innovative,Medium ,Manufacturing,30,provided,Selangor,31
+Innovative,Medium ,Manufacturing,22,provided,Selangor,29
+Not innovative,Medium ,Manufacturing,20,provided,Selangor,6
+Innovative,Medium ,Manufacturing,50,provided,Selangor,26
+Innovative,Medium ,Manufacturing,15,provided,Selangor,22
+Not innovative,Small ,Manufacturing,22,provided,Selangor,23
+Not innovative,Small ,Manufacturing,12,provided,Selangor,13
+Innovative,Small ,Other services,35,not provided,Selangor,10
+Not innovative,Small ,Manufacturing,10,provided,Selangor,6
+Innovative,Large ,Manufacturing,25,provided,Johor,28
+Innovative,Large ,Manufacturing,40,provided,Johor,28
+Innovative,Large ,Manufacturing,25,provided,Johor,25
+Innovative,Large ,Manufacturing,30,provided,Johor,26
+Innovative,Large ,Manufacturing,25,provided,Johor,25
+Not innovative,Large ,Manufacturing,10,provided,Johor,20
+Not innovative,Large ,Manufacturing,25,not provided,Johor,26
+Innovative,Large ,Manufacturing,8,not provided,Johor,10
+Innovative,Medium ,Manufacturing,24,not provided,Johor,25
+Innovative,Medium ,Manufacturing,15,provided,Johor,16
+Innovative,Medium ,Manufacturing,15,provided,Johor,9
+Not innovative,Small ,Manufacturing,26,not provided,Johor,27
+Not innovative,Small ,Manufacturing,20,provided,Johor,21
+Not innovative,Small ,Manufacturing,35,provided,Johor,10
+Not innovative,Medium ,Manufacturing,7,provided,Kedah,6
+Innovative,Medium ,Manufacturing,24,provided,Kedah,28
+Innovative,Medium ,Manufacturing,26,provided,Kedah,27
+Not innovative,Small ,Manufacturing,30,provided,Pahang,26
+Not innovative,Small ,Manufacturing,35,not provided,Perak,3
+Not innovative,Small ,Other services,,not provided,Perak,12
+Not innovative,Small ,Manufacturing,30,provided,Perak,29
+Innovative,Medium ,Manufacturing,4,provided,Penang,32
+Innovative,Medium ,Manufacturing,20,provided,Penang,22
+Innovative,Medium ,Manufacturing,8,not provided,Penang,10
+Innovative,Medium ,Manufacturing,13,provided,Penang,9
+Innovative,Medium ,Manufacturing,30,provided,Penang,14
+Not innovative,Small ,Manufacturing,30,not provided,Penang,15
+Not innovative,Small ,Manufacturing,20,provided,Penang,14
+Innovative,Large ,Manufacturing,25,provided,Selangor,26
+Innovative,Large ,Manufacturing,23,provided,Selangor,48
+Not innovative,Large ,Manufacturing,30,provided,Selangor,9
+Innovative,Medium ,Manufacturing,15,provided,Selangor,8
+Not innovative,Small ,Manufacturing,24,provided,Selangor,25
+Not innovative,Small ,Manufacturing,20,provided,Selangor,17
+Not innovative,Small ,Retail services,12,provided,Selangor,13
+Innovative,Small ,Manufacturing,10,provided,Selangor,11
+Innovative,Medium ,Manufacturing,20,not provided,Johor,23
+Not innovative,Small ,Manufacturing,30,not provided,Johor,40
+Innovative,Small ,Manufacturing,40,provided,Johor,6
+Not innovative,Small ,Manufacturing,10,not provided,Johor,10
+Innovative,Medium ,Manufacturing,20,provided,Kedah,16
+Innovative,Small ,Manufacturing,23,not provided,Kedah,23
+Innovative,Small ,Manufacturing,30,provided,Kedah,25
+Not innovative,Small ,Manufacturing,35,not provided,Kelantan,31
+Not innovative,Small ,Manufacturing,15,not provided,Kelantan,15
+Innovative,Small ,Manufacturing,41,provided,Kuala Lumpur,42
+Innovative,Medium ,Manufacturing,15,provided,Melaka,20
+Not innovative,Small ,Other services,5,provided,Negeri Sembilan,40
+Not innovative,Large ,Manufacturing,16,not provided,Pahang,17
+Innovative,Medium ,Manufacturing,25,not provided,Pahang,35
+Innovative,Medium ,Manufacturing,2,not provided,Pahang,40
+Innovative,Medium ,Manufacturing,21,not provided,Pahang,22
+Innovative,Medium ,Manufacturing,30,provided,Pahang,35
+Innovative,Small ,Manufacturing,32,provided,Perak,33
+Not innovative,Small ,Manufacturing,50,provided,Perak,6
+Innovative,Small ,Manufacturing,19,provided,Perlis,12
+Innovative,Medium ,Manufacturing,10,not provided,Penang,12
+Not innovative,Small ,Manufacturing,25,not provided,Sabah,25
+Not innovative,Small ,Manufacturing,32,provided,Sarawak,31
+Innovative,Medium ,Manufacturing,17,not provided,Selangor,26
+Innovative,Small ,Manufacturing,30,not provided,Selangor,20
+Not innovative,Small ,Manufacturing,14,provided,Selangor,15
+Innovative,Medium ,Manufacturing,15,not provided,Terengganu,17
+Not innovative,Small ,Manufacturing,18,not provided,Terengganu,16
+Innovative,Small ,Other services,20,provided,Johor,5
+Not innovative,Small ,Other services,2,provided,Kedah,18
+Not innovative,Large ,Other services,20,not provided,Kuala Lumpur,12
+Innovative,Large ,Other services,30,provided,Kuala Lumpur,14
+Innovative,Medium ,Other services,24,provided,KL,23
+Innovative,Medium ,Other services,17,provided,Kuala Lumpur,12
+Not innovative,Small ,Other services,8,provided,Sabah,9
+Innovative,Small ,Other services,15,not provided,Sarawak,18
+Not innovative,Small ,Other services,12,not provided,Sarawak,13
+Not innovative,Small ,Retail services,14,not provided,Sarawak,15
+Not innovative,Small ,Other services,9,not provided,Sarawak,9
+Not innovative,Small ,Other services,5,not provided,Sarawak,5
+Not innovative,Small ,Other services,12,provided,Sarawak,11
+Not innovative,Small ,Other services,3,provided,Sarawak,3
+Innovative,Large ,Other services,30,provided,Selangor,20
+Innovative,Large ,Other services,30,provided,Selangor,25
+Innovative,Medium ,Other services,20,provided,Selangor,23
+Innovative,Small ,Other services,20,not provided,Selangor,15
+Innovative,Medium ,Manufacturing,20,not provided,Johor,20
+Innovative,Medium ,Manufacturing,20,provided,Johor,11
+Innovative,Medium ,Other services,20,not provided,Johor,11
+Innovative,Medium ,Manufacturing,20,provided,Johor,11
+Innovative,Small ,Manufacturing,35,not provided,Johor,26
+Not innovative,Small ,Manufacturing,10,not provided,Johor,25
+Innovative,Small ,Manufacturing,40,not provided,Kedah,31
+Not innovative,Small ,Manufacturing,28,provided,Kedah,14
+Not innovative,Small ,Other services,22,not provided,Kuala Lumpur,7
+Not innovative,Small ,Manufacturing,20,provided,Kuala Lumpur,7
+Innovative,Medium ,Manufacturing,10,not provided,Melaka,25
+Not innovative,Small ,Manufacturing,30,provided,Pahang,23
+Innovative,Small ,Manufacturing,30,provided,Perak,46
+Innovative,Small ,Manufacturing,30,provided,Perak,21
+Not innovative,Small ,Manufacturing,40,not provided,Perak,39
+Innovative,Medium ,Manufacturing,25,provided,Penang,20
+Not innovative,Small ,Manufacturing,30,not provided,Penang,3
+Not innovative,Small ,Manufacturing,15,provided,Penang,21
+Not innovative,Small ,Manufacturing,20,not provided,Penang,6
+Not innovative,Small ,Manufacturing,20,not provided,Penang,27
+Not innovative,Small ,Retail services,20,not provided,Penang,5
+Innovative,Large ,Manufacturing,35,provided,Selangor,31
+Innovative,Large ,Manufacturing,30,provided,Selangor,26
+Innovative,Medium ,Manufacturing,43,not provided,Selangor,32
+Innovative,Medium ,Manufacturing,35,not provided,Selangor,21
+Innovative,Medium ,Manufacturing,40,provided,Selangor,30
+Innovative,Medium ,Manufacturing,22,provided,Selangor,19
+Innovative,Medium ,Manufacturing,20,provided,Selangor,28
+Innovative,Medium ,Manufacturing,28,provided,Selangor,29
+Innovative,Medium ,Manufacturing,20,provided,Selangor,15
+Not innovative,Small ,Retail services,30,not provided,Selangor,15
+Not innovative,Small ,Manufacturing,25,not provided,Selangor,19
+Innovative,Small ,Other services,23,provided,Selangor,16
+Not innovative,Small ,Retail services,25,not provided,Selangor,6
+Not innovative,Small ,Manufacturing,25,not provided,Selangor,11
+Innovative,Small ,Manufacturing,30,provided,Selangor,7
+Innovative,Large ,Manufacturing,38,provided,Johor,40
+Innovative,Large ,Manufacturing,25,provided,Johor,30
+Innovative,Large ,Manufacturing,25,provided,Johor,25
+Innovative,Large ,Manufacturing,20,provided,Johor,29
+Innovative,Medium ,Manufacturing,15,provided,Johor,14
+Not innovative,Small ,Manufacturing,15,not provided,Johor,17
+Innovative,Large ,Manufacturing,34,provided,Kedah,25
+Innovative,Medium ,Manufacturing,12,provided,Kedah,12
+Not innovative,Small ,Other services,15,not provided,Kedah,18
+Not innovative,Small ,Retail services,34,not provided,Kelantan,30
+Not innovative,Small ,Manufacturing,50,provided,Kelantan,36
+Innovative,Small ,Manufacturing,23,provided,Kelantan,37
+Not innovative,Small ,Manufacturing,,not provided,Negeri Sembilan,25
+Not innovative,Small ,Manufacturing,35,not provided,Perak,6
+Innovative,Large ,Manufacturing,29,provided,Perlis,40
+Innovative,Large ,Manufacturing,30,provided,Penang,31
+Innovative,Large ,Manufacturing,35,provided,Penang,17
+Innovative,Large ,Manufacturing,25,provided,Penang,6
+Innovative,Medium ,Manufacturing,1,not provided,Penang,22
+Innovative,Medium ,Manufacturing,30,not provided,Penang,22
+Innovative,Medium ,Manufacturing,30,not provided,Penang,40
+Innovative,Medium ,Manufacturing,30,not provided,Penang,43
+Not innovative,Small ,Manufacturing,30,not provided,Penang,23
+Not innovative,Small ,Manufacturing,20,not provided,Penang,8
+Not innovative,Small ,Manufacturing,25,provided,Sabah,26
+Not innovative,Small ,Retail services,37,not provided,Sabah,37
+Not innovative,Small ,Other services,10,not provided,Sarawak,10
+Not innovative,Small ,Manufacturing,9,not provided,Sarawak,10
+Innovative,Medium ,Manufacturing,25,provided,Selangor,26
+Innovative,Medium ,Manufacturing,15,not provided,Selangor,22
+Innovative,Medium ,Manufacturing,33,provided,Selangor,19
+Innovative,Medium ,Manufacturing,13,provided,Selangor,16
+Innovative,Small ,Manufacturing,20,provided,Selangor,12
+Not innovative,Small ,Other services,25,provided,Selangor,8
+Innovative,Small ,Manufacturing,19,provided,Terengganu,21
+Innovative,Small ,Manufacturing,6,not provided,Terengganu,22
+Innovative,Small ,Manufacturing,30,provided,Johor,31
+Innovative,Medium ,Manufacturing,36,not provided,Kelantan,37
+Innovative,Medium ,Manufacturing,20,provided,Melaka,20
+Innovative,Medium ,Manufacturing,30,provided,Melaka,12
+Not innovative,Small ,Other services,15,provided,Melaka,16
+Innovative,Medium ,Manufacturing,22,provided,Pahang,24
+Innovative,Medium ,Other services,29,provided,Pahang,38
+Innovative,Large ,Manufacturing,28,provided,Perak,26
+Innovative,Medium ,Manufacturing,,not provided,Perak,44
+Innovative,Medium ,Manufacturing,20,not provided,Perak,40
+Innovative,Medium ,Manufacturing,28,provided,Perak,29
+Not innovative,Small ,Manufacturing,50,provided,Perak,43
+Not innovative,Small ,Manufacturing,35,not provided,Perak,41
+Not innovative,Small ,Manufacturing,25,not provided,Perlis,18
+Not innovative,Large ,Manufacturing,30,not provided,Penang,27
+Innovative,Medium ,Manufacturing,9,provided,Sabah,37
+Innovative,Medium ,Manufacturing,30,provided,Sabah,51
+Not innovative,Small ,Manufacturing,24,not provided,Sabah,24
+Not innovative,Small ,Manufacturing,12,not provided,Sabah,12
+Innovative,Medium ,Manufacturing,29,not provided,Sarawak,30
+Innovative,Medium ,Other services,19,not provided,Sarawak,20
+Not innovative,Small ,Manufacturing,,not provided,Sarawak,23
+Not innovative,Small ,Manufacturing,22,not provided,Sarawak,23
+Innovative,Medium ,Manufacturing,20,provided,Selangor,31
+Innovative,Medium ,Manufacturing,1,provided,Selangor,21
+Innovative,Medium ,Retail services,13,provided,Selangor,14
+Innovative,Small ,Manufacturing,20,provided,Selangor,15
+Innovative,Small ,Manufacturing,20,not provided,Selangor,11
+Innovative,Medium ,Other services,10,not provided,Johor,13
+Innovative,Small ,Other services,25,not provided,Johor,37
+Not innovative,Small ,Other services,20,provided,Kedah,18
+Not innovative,Small ,Other services,6,not provided,Kelantan,3
+Not innovative,Small ,Other services,6,not provided,Kelantan,6
+Not innovative,Small ,Other services,17,not provided,Kelantan,18
+Not innovative,Small ,Other services,12,not provided,Kelantan,12
+Not innovative,Small ,Other services,6,not provided,Kelantan,6
+Not innovative,Small ,Other services,12,not provided,Kelantan,13
+Innovative,Large ,Other services,12,provided,Kuala Lumpur,23
+Innovative,Medium ,Other services,19,provided,Kuala Lumpur,10
+Innovative,Small ,Other services,40,not provided,Kuala Lumpur,12
+Innovative,Medium ,Other services,3,provided,Negeri Sembilan,4
+Innovative,Medium ,Other services,25,provided,Perak,36
+Innovative,Medium ,Other services,13,provided,Penang,14
+Not innovative,Large ,Other services,20,not provided,Selangor,16
+Innovative,Medium ,Other services,20,provided,Selangor,11
+Not innovative,Small ,Other services,25,not provided,Selangor,10
+Not innovative,Small ,Other services,34,not provided,Terengganu,35
+Not innovative,Large ,Other services,25,provided,Johor,11
+Innovative,Medium ,Other services,20,provided,Johor,14
+Innovative,Medium ,Other services,12,not provided,Johor,13
+Not innovative,Small ,Retail services,23,provided,Johor,23
+Not innovative,Small ,Other services,20,not provided,Johor,23
+Innovative,Small ,Manufacturing,38,provided,Johor,81
+Not innovative,Small ,Other services,25,not provided,Johor,24
+Not innovative,Small ,Other services,15,not provided,Johor,14
+Innovative,Small ,Manufacturing,22,not provided,Johor,25
+Not innovative,Small ,Retail services,18,provided,Johor,15
+Not innovative,Small ,Other services,21,not provided,Kedah,33
+Innovative,Medium ,Retail services,17,provided,Kelantan,19
+Not innovative,Small ,Manufacturing,20,provided,Kelantan,19
+Innovative,Medium ,Other services,25,provided,Melaka,30
+Innovative,Medium ,Manufacturing,35,provided,Negeri Sembilan,8
+Innovative,Large ,Other services,20,not provided,Pahang,20
+Not innovative,Small ,Manufacturing,18,not provided,Pahang,17
+Innovative,Small ,Retail services,30,provided,Pahang,22
+Not innovative,Small ,Other services,9,not provided,Pahang,10
+Innovative,Medium ,Other services,30,not provided,Perak,26
+Innovative,Medium ,Manufacturing,40,not provided,Perak,40
+Innovative,Small ,Other services,30,not provided,Perak,15
+Innovative,Small ,Other services,20,not provided,Perak,12
+Not innovative,Small ,Other services,40,provided,Perak,27
+Not innovative,Small ,Other services,15,not provided,Perlis,16
+Not innovative,Small ,Retail services,15,provided,Perlis,17
+Not innovative,Small ,Other services,20,not provided,Sabah,20
+Not innovative,Small ,Other services,20,not provided,Sarawak,20
+Not innovative,Small ,Other services,34,not provided,Sarawak,35
+Not innovative,Small ,Other services,20,not provided,Sarawak,20
+Not innovative,Small ,Other services,15,not provided,Sarawak,17
+Innovative,Medium ,Other services,26,not provided,Terengganu,41
+Innovative,Medium ,Other services,22,not provided,Terengganu,21
+Innovative,Medium ,Other services,12,not provided,Terengganu,12
+Not innovative,Small ,Retail services,16,not provided,Terengganu,17
+Innovative,Medium ,Manufacturing,30,not provided,Johor,17
+Innovative,Medium ,Manufacturing,35,provided,Johor,15
+Innovative,Large ,Manufacturing,2,provided,Kedah,18
+Not innovative,Small ,Manufacturing,4,provided,Kedah,6
+Not innovative,Small ,Manufacturing,30,not provided,Kuala Lumpur,28
+Innovative,Medium ,Manufacturing,21,provided,Melaka,37
+Innovative,Medium ,Manufacturing,30,not provided,Melaka,32
+Innovative,Small ,Manufacturing,12,provided,Melaka,27
+Not innovative,Medium ,Manufacturing,32,not provided,Negeri Sembilan,47
+Not innovative,Small ,Manufacturing,20,not provided,Negeri Sembilan,31
+Innovative,Medium ,Manufacturing,40,not provided,Pahang,90
+Not innovative,Small ,Manufacturing,30,not provided,Perak,23
+Not innovative,Small ,Other services,12,not provided,Perak,13
+Innovative,Medium ,Manufacturing,40,not provided,Penang,33
+Innovative,Medium ,Manufacturing,10,provided,Penang,14
+Not innovative,Small ,Manufacturing,30,not provided,Penang,19
+Not innovative,Small ,Manufacturing,20,not provided,Penang,7
+Not innovative,Small ,Manufacturing,,not provided,Sarawak,40
+Not innovative,Small ,Other services,25,not provided,Sarawak,25
+Not innovative,Large ,Manufacturing,20,provided,Selangor,26
+Not innovative,Large ,Manufacturing,20,provided,Selangor,8
+Innovative,Large ,Manufacturing,30,not provided,Selangor,6
+Innovative,Small ,Manufacturing,21,provided,Selangor,22
+Not innovative,Small ,Manufacturing,30,provided,Selangor,26
+Innovative,Small ,Manufacturing,1,not provided,Selangor,18
+Not innovative,Small ,Manufacturing,20,provided,Selangor,15
+Innovative,Medium ,Other services,20,provided,Johor,16
+Not innovative,Small ,Manufacturing,60,not provided,Perak,44
+Innovative,Medium ,Other services,30,not provided,Selangor,30
+Not innovative,Small ,Other services,15,provided,Terengganu,4
+Not innovative,Large ,Other services,3,not provided,Johor,4
+Innovative,Medium ,Other services,15,not provided,Johor,16
+Not innovative,Small ,Retail services,58,not provided,Johor,71
+Innovative,Medium ,Other services,15,provided,Kedah,16
+Innovative,Medium ,Other services,26,provided,Kedah,26
+Not innovative,Small ,Retail services,13,not provided,Kedah,14
+Not innovative,Small ,Retail services,18,not provided,Kelantan,20
+Not innovative,Small ,Retail services,25,not provided,Kelantan,30
+Innovative,Small ,Other services,30,not provided,Kuala Lumpur,26
+Innovative,Medium ,Retail services,20,not provided,Melaka,37
+Innovative,Large ,Retail services,25,provided,Negeri Sembilan,11
+Not innovative,Large ,Retail services,19,not provided,Pahang,20
+Not innovative,Small ,Retail services,10,not provided,Pahang,11
+Not innovative,Small ,Retail services,20,not provided,Perak,21
+Not innovative,Small ,Retail services,14,not provided,Perak,15
+Innovative,Medium ,Retail services,40,provided,Perlis,19
+Innovative,Medium ,Retail services,16,not provided,Perlis,17
+Not innovative,Small ,Retail services,13,provided,Perlis,14
+Not innovative,Large ,Retail services,30,not provided,Penang,20
+Not innovative,Large ,Retail services,15,not provided,Penang,12
+Innovative,Small ,Other services,6,not provided,Selangor,7
+Innovative,Medium ,Manufacturing,15,provided,Johor,19
+Innovative,Medium ,Manufacturing,20,provided,Kedah,21
+Innovative,Small ,Manufacturing,10,not provided,Kedah,12
+Innovative,Small ,Manufacturing,36,not provided,Kelantan,30
+Not innovative,Small ,Manufacturing,19,not provided,Kelantan,19
+Not innovative,Small ,Manufacturing,20,not provided,Kelantan,17
+Not innovative,Small ,Manufacturing,15,not provided,Kelantan,21
+Not innovative,Small ,Manufacturing,7,not provided,Kelantan,200
+Not innovative,Small ,Manufacturing,14,not provided,Kelantan,16
+Not innovative,Small ,Manufacturing,15,not provided,Kelantan,22
+Not innovative,Small ,Manufacturing,20,not provided,Kelantan,23
+Not innovative,Small ,Manufacturing,40,not provided,Kuala Lumpur,31
+Innovative,Small ,Retail services,23,provided,Pahang,11
+Not innovative,Small ,Manufacturing,35,provided,Perak,35
+Not innovative,Small ,Manufacturing,9,not provided,Perak,18
+Not innovative,Small ,Manufacturing,35,not provided,Sarawak,82
+Not innovative,Small ,Manufacturing,24,not provided,Sarawak,26
+Not innovative,Small ,Retail services,11,not provided,Sarawak,19
+Not innovative,Small ,Retail services,,provided,Sarawak,6
+Innovative,Medium ,Manufacturing,30,provided,Selangor,15
+Not innovative,Small ,Manufacturing,47,provided,Selangor,29
+Innovative,Medium ,Other services,22,not provided,Johor,23
+Innovative,Small ,Other services,19,provided,Johor,20
+Not innovative,Large ,Other services,36,not provided,Kedah,36
+Not innovative,Large ,Other services,5,provided,Kedah,23
+Not innovative,Medium ,Other services,5,not provided,Kedah,30
+Not innovative,Medium ,Other services,3,not provided,Kedah,18
+Not innovative,Large ,Other services,20,provided,Kuala Lumpur,13
+Innovative,Medium ,Manufacturing,14,not provided,Kuala Lumpur,43
+Not innovative,Small ,Other services,33,not provided,Melaka,17
+Innovative,Medium ,Manufacturing,20,not provided,Negeri Sembilan,10
+Innovative,Medium ,Other services,16,not provided,Perak,31
+Innovative,Large ,Other services,25,provided,Penang,28
+Innovative,Medium ,Other services,22,not provided,Penang,28
+Innovative,Medium ,Other services,20,not provided,Penang,16
+Innovative,Medium ,Other services,20,not provided,Sarawak,26
+Innovative,Medium ,Other services,40,not provided,Selangor,31
+Not innovative,Small ,Other services,13,not provided,Selangor,13
+Not innovative,Small ,Other services,6,not provided,Selangor,6
+Not innovative,Small ,Other services,10,not provided,Selangor,10
+Not innovative,Large ,Manufacturing,25,not provided,Johor,18
+Innovative,Medium ,Manufacturing,50,not provided,Johor,25
+Innovative,Medium ,Manufacturing,30,not provided,Johor,20
+Not innovative,Small ,Manufacturing,7,not provided,Johor,9
+Not innovative,Small ,Manufacturing,,not provided,Kedah,3
+Innovative,Medium ,Manufacturing,40,not provided,Kelantan,41
+Not innovative,Small ,Manufacturing,25,not provided,Kelantan,28
+Not innovative,Small ,Manufacturing,4,not provided,Kelantan,4
+Innovative,Medium ,Manufacturing,20,provided,Melaka,32
+Innovative,Medium ,Manufacturing,20,not provided,Negeri Sembilan,10
+Not innovative,Small ,Manufacturing,40,not provided,Negeri Sembilan,46
+Innovative,Medium ,Manufacturing,21,not provided,Pahang,21
+Innovative,Medium ,Manufacturing,10,provided,Pahang,20
+Innovative,Medium ,Manufacturing,30,not provided,Pahang,30
+Innovative,Small ,Manufacturing,30,provided,Pahang,36
+Not innovative,Small ,Manufacturing,4,provided,Pahang,25
+Not innovative,Small ,Manufacturing,20,not provided,Perak,5
+Not innovative,Small ,Manufacturing,25,not provided,Perlis,16
+Not innovative,Large ,Manufacturing,30,not provided,Penang,23
+Not innovative,Large ,Manufacturing,15,not provided,Sarawak,18
+Innovative,Medium ,Manufacturing,35,provided,Selangor,38
+Innovative,Medium ,Manufacturing,30,provided,Selangor,24
+Innovative,Medium ,Manufacturing,30,not provided,Selangor,20
+Not innovative,Small ,Other services,2,not provided,Sabah,2
+Not innovative,Small ,Other services,10,not provided,Kuala Lumpur,10
+Not innovative,Small ,Other services,4,provided,Kuala Lumpur,31
+Not innovative,Small ,Other services,10,not provided,Penang,3
+Not innovative,Small ,Other services,10,provided,Terengganu,9
+Innovative,Small ,Other services,10,provided,Selangor,10
+Innovative,Small ,Other services,40,not provided,Kuala Lumpur,7
+Innovative,Small ,Other services,1,provided,Terengganu,7
+Not innovative,Small ,Other services,10,not provided,Selangor,6
+Not innovative,Small ,Other services,4,not provided,Johor,6
+Not innovative,Small ,Manufacturing,10,provided,Selangor,5
+Not innovative,Small ,Manufacturing,20,provided,Johor,35
+Not innovative,Small ,Manufacturing,20,not provided,Perak,29
+Not innovative,Small ,Manufacturing,15,provided,Johor,17
+Not innovative,Small ,Retail services,20,not provided,Johor,6
+Innovative,Small ,Manufacturing,15,provided,Johor,14
+Not innovative,Small ,Manufacturing,22,provided,Selangor,22
+Not innovative,Small ,Manufacturing,2,provided,Kedah,2
+Not innovative,Small ,Manufacturing,10,provided,Kedah,10
+Not innovative,Small ,Manufacturing,22,provided,Selangor,22
+Innovative,Medium ,Manufacturing,37,provided,Selangor,37
+Innovative,Medium ,Manufacturing,20,provided,Pahang,15
+Innovative,Small ,Manufacturing,36,provided,Selangor,16
+Innovative,Small ,Manufacturing,18,provided,Kuala Lumpur,18
+Not innovative,Small ,Other services,10,not provided,Johor,14
+Innovative,Small ,Other services,15,provided,Kuala Lumpur,9
+Not innovative,Small ,Other services,7,not provided,Sabah,8
+Not innovative,Small ,Other services,9,provided,Penang,5
+Innovative,Small ,Manufacturing,36,not provided,Kuala Lumpur,3
+Innovative,Medium ,Manufacturing,20,provided,Johor,30
+Innovative,Medium ,Manufacturing,14,not provided,Kedah,25
+Innovative,Medium ,Manufacturing,20,not provided,Kedah,20
+Not innovative,Small ,Manufacturing,40,not provided,Pahang,34
+Not innovative,Small ,Manufacturing,30,not provided,Pahang,42
+Innovative,Medium ,Manufacturing,25,provided,Kedah,35
+Not innovative,Small ,Manufacturing,,provided,Sarawak,20
+Not innovative,Small ,Other services,17,provided,Selangor,17
+Innovative,Small ,Manufacturing,20,not provided,Kuala Lumpur,13
+Not innovative,Small ,Other services,8,not provided,Perlis,12
+Innovative,Small ,Manufacturing,10,not provided,Kuala Lumpur,36
+Not innovative,Large ,Manufacturing,30,not provided,Penang,32
+Innovative,Medium ,Other services,35,not provided,Penang,35
+Not innovative,Small ,Other services,20,not provided,Melaka,15
+Innovative,Small ,Manufacturing,32,provided,Melaka,5
+Innovative,Small ,Other services,46,not provided,Kuala Lumpur,20
+Not innovative,Large ,Other services,10,provided,Melaka,19
+Not innovative,Small ,Retail services,40,not provided,Penang,40
+Not innovative,Large ,Other services,20,not provided,Pahang,12
+Innovative,Medium ,Other services,40,provided,Kuala Lumpur,22
+Not innovative,Small ,Manufacturing,30,not provided,Pahang,11
+Innovative,Small ,Other services,1,provided,Terengganu,12
+Not innovative,Large ,Retail services,15,provided,Johor,16
+Not innovative,Small ,Retail services,30,not provided,Johor,39
+Not innovative,Small ,Retail services,10,provided,Penang,24
+Innovative,Small ,Retail services,23,provided,Pahang,23
+Not innovative,Large ,Other services,14,provided,Johor,16
+Not innovative,Small ,Retail services,8,not provided,Johor,10
+Innovative,Small ,Retail services,6,provided,Kuala Lumpur,7
+Not innovative,Small ,Manufacturing,6,not provided,Johor,10
+Innovative,Small ,Retail services,40,not provided,Kuala Lumpur,14
+Not innovative,Small ,Other services,27,not provided,Sabah,27
+Not innovative,Small ,Manufacturing,25,not provided,Johor,38
+Not innovative,Small ,Manufacturing,30,not provided,Kelantan,20
+Not innovative,Small ,Manufacturing,20,not provided,Penang,19
+Not innovative,Small ,Manufacturing,7,not provided,Kelantan,13
+Not innovative,Small ,Manufacturing,25,not provided,Sabah,25
+Not innovative,Small ,Manufacturing,6,provided,Johor,8
+Not innovative,Small ,Retail services,10,not provided,Johor,5
+Innovative,Large ,Other services,42,provided,Pahang,42
+Not innovative,Large ,Other services,22,not provided,Selangor,22
+Innovative,Small ,Other services,7,provided,Kuala Lumpur,16
+Not innovative,Small ,Other services,6,provided,Johor,9
+Not innovative,Large ,Other services,30,provided,Penang,6
+Not innovative,Small ,Other services,14,not provided,Negeri Sembilan,6
+Not innovative,Small ,Manufacturing,25,not provided,Kuala Lumpur,50
+Not innovative,Small ,Manufacturing,15,not provided,Terengganu,15
+Not innovative,Small ,Manufacturing,50,not provided,Kuala Lumpur,72
+Innovative,Medium ,Manufacturing,58,not provided,Pahang,58
+Innovative,Medium ,Manufacturing,30,provided,Selangor,43
+Not innovative,Medium ,Manufacturing,35,provided,Pahang,4
+Innovative,Medium ,Manufacturing,37,provided,Melaka,32
+Innovative,Medium ,Manufacturing,10,not provided,Melaka,27
+Innovative,Medium ,Manufacturing,40,provided,Melaka,20
+Innovative,Medium ,Manufacturing,30,not provided,Kuala Lumpur,28
+Not innovative,Small ,Manufacturing,25,provided,Melaka,25
+Not innovative,Large ,Other services,20,provided,Kuala Lumpur,43
+Innovative,Medium ,Other services,1,provided,Melaka,5
+Innovative,Medium ,Other services,9,provided,Kuala Lumpur,9
+Innovative,Medium ,Other services,12,provided,Kuala Lumpur,6
+Innovative,Small ,Other services,14,not provided,Melaka,25
+Innovative,Small ,Other services,3,not provided,Melaka,7
+Not innovative,Small ,Other services,20,not provided,Melaka,22
+Not innovative,Small ,Other services,17,not provided,Negeri Sembilan,10
+Not innovative,Small ,Other services,23,not provided,Kuala Lumpur,28
+Not innovative,Small ,Other services,36,not provided,Kuala Lumpur,36
+Not innovative,Small ,Other services,,not provided,Melaka,11
+Innovative,Large ,Retail services,2,provided,Negeri Sembilan,10
+Not innovative,Large ,Retail services,1,provided,Melaka,24
+Innovative,Medium ,Other services,36,not provided,Melaka,23
+Not innovative,Small ,Other services,20,not provided,Negeri Sembilan,18
+Not innovative,Large ,Other services,10,not provided,Melaka,33
+Not innovative,Small ,Manufacturing,13,not provided,Terengganu,11
+Not innovative,Small ,Retail services,13,not provided,Terengganu,13
+Not innovative,Small ,Manufacturing,10,not provided,Terengganu,10
+Not innovative,Small ,Manufacturing,12,not provided,Terengganu,12
+Not innovative,Small ,Manufacturing,10,not provided,Terengganu,10
+Not innovative,Small ,Manufacturing,30,not provided,Terengganu,30
+Not innovative,Small ,Manufacturing,14,not provided,Terengganu,14
+Not innovative,Small ,Manufacturing,40,not provided,Terengganu,38
+Not innovative,Small ,Manufacturing,20,not provided,Terengganu,37
+Innovative,Medium ,Other services,40,provided,Pahang,26
+Innovative,Medium ,Other services,30,provided,Pahang,8
+Innovative,Medium ,Other services,35,provided,Pahang,21
+Not innovative,Small ,Other services,12,not provided,Terengganu,14
+Not innovative,Small ,Other services,8,not provided,Terengganu,8
+Not innovative,Small ,Other services,11,provided,Terengganu,9
+Innovative,Medium ,Other services,8,provided,Terengganu,10
+Not innovative,Small ,Other services,10,not provided,Terengganu,20
+Not innovative,Small ,Manufacturing,20,not provided,Terengganu,41
+Not innovative,Small ,Retail services,40,not provided,Pahang,33
+Not innovative,Small ,Retail services,26,not provided,Pahang,26
+Not innovative,Small ,Retail services,39,provided,Pahang,39
+Not innovative,Small ,Manufacturing,40,not provided,Pahang,50
+Innovative,Medium ,Other services,,not provided,Terengganu,18
+Not innovative,Small ,Other services,12,not provided,Terengganu,12
+Innovative,Medium ,Other services,21,provided,Pahang,21
+Not innovative,Small ,Retail services,40,not provided,Pahang,42
+Not innovative,Small ,Retail services,25,provided,Pahang,24
+Not innovative,Small ,Retail services,10,not provided,Penang,3
+Not innovative,Medium ,Manufacturing,3,not provided,Perak,50
+Innovative,Medium ,Manufacturing,10,not provided,Penang,20
+Innovative,Small ,Manufacturing,12,provided,Perak,12
+Not innovative,Small ,Manufacturing,38,not provided,Perak,38
+Innovative,Medium ,Manufacturing,25,not provided,Perak,25
+Innovative,Medium ,Manufacturing,35,not provided,Perak,34
+Innovative,Medium ,Manufacturing,16,provided,Perak,41
+Not innovative,Small ,Manufacturing,13,not provided,Kedah,13
+Not innovative,Small ,Manufacturing,10,not provided,Kedah,14
+Innovative,Medium ,Manufacturing,10,not provided,Penang,10
+Not innovative,Small ,Manufacturing,25,not provided,Perlis,31
+Innovative,Medium ,Other services,17,not provided,Kedah,24
+Not innovative,Medium ,Other services,2,provided,Kedah,26
+Innovative,Medium ,Other services,20,not provided,Perak,2
+Not innovative,Medium ,Other services,3,not provided,Perak,3
+Innovative,Medium ,Other services,10,provided,Penang,11
+Not innovative,Medium ,Other services,5,not provided,Kedah,30
+Innovative,Medium ,Retail services,13,provided,Kedah,17
+Innovative,Medium ,Retail services,10,not provided,Perak,10
+Innovative,Medium ,Other services,15,not provided,Penang,20
+Innovative,Medium ,Other services,20,provided,Sabah,20
+Innovative,Medium ,Other services,20,not provided,Sabah,20
+Innovative,Medium ,Other services,22,not provided,Sabah,22
+Not innovative,Large ,Other services,22,provided,Sabah,24
+Innovative,Medium ,Other services,20,provided,Sabah,10
+Not innovative,Medium ,Other services,6,not provided,Sabah,6
